@@ -1,0 +1,1 @@
+These are interactive maps for my blog post, [How Would Proposed Medicaid and SNAP Cuts Affect Ohio?](https://www.sciotoanalysis.com/news/2025/7/1/how-would-proposed-medicaid-and-snap-cuts-affect-ohio).
